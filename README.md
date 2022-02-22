@@ -4,7 +4,7 @@
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/anudeshsaini
 - 🔭 I am Currently working as Project Engineer at Raddiant Buildcon.
 - 🥅 2021 Goals: Explore the more and more about Data Science, Machine learning, Power Bi Dashboards etc.
--⚡ Fun fact: I love to learn New Technologies.
+- ⚡ Fun fact: I love to learn New Technologies.
 
 
 
