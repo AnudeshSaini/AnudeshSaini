@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnudeshSaini
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python or its libraries such as Numpy, Pandas, Matplotlib, Seaborn, Sklearn..etc, Power Bi ,SQL & Excel. 
+- 🌱 I’m currently learning python, Power Bi, SQL & Excel. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
