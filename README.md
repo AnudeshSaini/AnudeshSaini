@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AnudeshSaini
+- 👋 Hi, I’m Anudesh Saini
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python, Power Bi, SQL & Excel. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn : https://www.linkedin.com/in/anudeshsaini
+- 🔭 I am Currently working as Project Engineer at Raddiant Buildcon.
+- 🥅 2021 Goals: Explore the more and more about Data Science, Machine learning, Power Bi Dashboards etc.
+-⚡ Fun fact: I love to learn New Technologies.
 
-<!---
-AnudeshSaini/AnudeshSaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+Thanks for visit my profile.
